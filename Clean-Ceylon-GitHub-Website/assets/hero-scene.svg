@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 735 660" role="img" aria-labelledby="hero-title hero-desc">
+<title id="hero-title">Fresh, welcoming home interior</title><desc id="hero-desc">Illustration of a clean living room with sofa, window, plant, rug, and air conditioner.</desc>
+<defs>
+<linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2faf3"/><stop offset="1" stop-color="#cfeae5"/></linearGradient>
+<linearGradient id="couch" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffffff"/><stop offset="1" stop-color="#d7e6df"/></linearGradient>
+<linearGradient id="floor" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#e6eee8"/><stop offset="1" stop-color="#c9dfd5"/></linearGradient>
+<linearGradient id="curtain" x1="0" x2="1"><stop stop-color="#dcebdc"/><stop offset="1" stop-color="#f2fbef"/></linearGradient>
+<filter id="shade" x="-20%" y="-40%" width="140%" height="180%"><feDropShadow dx="0" dy="16" stdDeviation="13" flood-color="#0e483a" flood-opacity=".13"/></filter>
+</defs>
+<circle cx="372" cy="313" r="288" fill="#d6f0e4"/>
+<circle cx="373" cy="306" r="255" fill="#e6f6ee"/>
+<path d="M92 488c93-42 479-42 572 0v93H92Z" fill="url(#floor)"/>
+<path d="M92 486h572" stroke="#b3d4c9" stroke-width="3"/>
+<!-- window -->
+<rect x="381" y="134" width="204" height="253" rx="16" fill="#a7dad6" stroke="#fff" stroke-width="12"/>
+<path d="M483 140v240M387 264h192" stroke="#ffffff" stroke-width="10"/>
+<path d="M390 306q51-64 91 2t97-12v76H390Z" fill="#a4ceaf"/>
+<path d="M390 340q43-35 91-6t97-12v50H390Z" fill="#76b6a9"/>
+<path d="M367 120h27v281h-27q-32-45-23-100t2-102q-3-45 21-79" fill="url(#curtain)"/>
+<path d="M588 120h23q30 38 13 91t0 90q12 58-13 100h-23Z" fill="url(#curtain)"/>
+<!-- air conditioning -->
+<g filter="url(#shade)"><rect x="159" y="127" width="176" height="65" rx="16" fill="#fff"/><rect x="176" y="173" width="140" height="8" rx="4" fill="#a6cac5"/><circle cx="308" cy="147" r="4" fill="#77bf71"/><path d="M198 205q-10 15-3 26m55-26q-10 15-3 26m55-26q-10 15-3 26" stroke="#7bbfb2" stroke-linecap="round" stroke-width="4" fill="none" opacity=".65"/></g>
+<!-- plant -->
+<g><path d="M606 468l-17-105h68l-17 105Z" fill="#c78d62"/><path d="M598 395h52" stroke="#e4b48b" stroke-width="5"/><path d="M622 377V243" stroke="#508f5a" stroke-width="7" stroke-linecap="round"/>
+<path d="M620 321q-70-48-51-95 55 3 51 95Z" fill="#579d61"/><path d="M625 308q58-52 42-97-56 8-42 97Z" fill="#8abf6f"/><path d="M618 376q-64-44-66-95 54 8 66 95Z" fill="#6bac71"/><path d="M626 368q59-47 72-96-57 0-72 96Z" fill="#488d68"/><path d="M625 270q45-45 35-87-41 15-35 87Z" fill="#65b27d"/></g>
+<!-- rug -->
+<ellipse cx="369" cy="520" rx="252" ry="72" fill="#abd9ca" opacity=".7"/>
+<ellipse cx="369" cy="515" rx="231" ry="54" fill="#d9efe7"/>
+<!-- couch -->
+<g filter="url(#shade)">
+<rect x="146" y="333" width="318" height="155" rx="43" fill="#b5cfc1"/>
+<rect x="160" y="317" width="296" height="128" rx="37" fill="url(#couch)" stroke="#e5f3eb" stroke-width="4"/>
+<rect x="139" y="396" width="337" height="100" rx="29" fill="#eff7f1"/>
+<path d="M296 404v88" stroke="#d5e7dc" stroke-width="3"/>
+<rect x="129" y="370" width="50" height="132" rx="24" fill="#eef7ef"/>
+<rect x="441" y="370" width="50" height="132" rx="24" fill="#eef7ef"/>
+<path d="M166 497v28m284-28v28" stroke="#947c64" stroke-width="12" stroke-linecap="round"/>
+<rect x="190" y="367" width="79" height="74" rx="18" transform="rotate(-8 190 367)" fill="#a8cfae"/>
+<rect x="341" y="366" width="71" height="71" rx="17" transform="rotate(8 341 366)" fill="#93c3bc"/>
+<path d="M237 387q-8 16 0 34M377 386q-9 15 0 32" stroke="#ebf6e6" stroke-width="4" fill="none" stroke-linecap="round"/>
+</g>
+<!-- coffee table -->
+<ellipse cx="350" cy="550" rx="144" ry="27" fill="#87b7a7" opacity=".27"/>
+<rect x="250" y="510" width="198" height="19" rx="9.5" fill="#b47e56"/>
+<path d="M274 525v51m149-51v51" stroke="#967254" stroke-width="12" stroke-linecap="round"/>
+<ellipse cx="352" cy="507" rx="33" ry="9" fill="#fff"/>
+<path d="M337 504q-3-19 11-27m6 27q8-14 17-14" stroke="#448e63" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M348 479q-17-19-23-11 1 15 23 11Zm8 18q16-21 23-14-4 17-23 14Z" fill="#65ad64"/>
+<!-- sparkles -->
+<g fill="#70bf7d"><path d="m117 282 6 17 17 6-17 6-6 17-6-17-17-6 17-6z"/><path d="m568 448 4 13 13 4-13 4-4 13-4-13-13-4 13-4z"/><path d="m528 110 5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/></g>
+<g fill="none" stroke="#8fcfc0" stroke-width="2"><circle cx="105" cy="375" r="9"/><circle cx="557" cy="417" r="6"/><circle cx="133" cy="238" r="5"/></g>
+</svg>
